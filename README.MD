@@ -4,15 +4,22 @@ It is a lightweight markup language developed by John Gruber with the help of Aa
 
 ### How to make Header in Markdown
 
-Examples how to create Headers in Markdown  
-'''
+Examples: 
+```
 # This represent <h1> tag
 ## This represents <h2> tag
-  
-'''
+.
+...
+....
+##### This represents <h5> tag
+```
+
 
 ### How to make Table in Markdown
+```
 
+
+```
 ### Images in Markdown
 
 ### Bold 
