@@ -111,7 +111,7 @@ Examples:
 ##### For Javascript
 ```javascript
 test= async ()=>{
-console.log("Javascript")
+console.log("Javascript");
 }
 ```
 ````
@@ -123,11 +123,22 @@ Put your Code Here
 ##### For Java
 ```java
 public void Java{
-console.log("Java")
+  System.out.println("Java");
 }
 ```
 ````
 ```java
+Put your Code Here
+```
+````
+
+##### For Python
+```python
+def Python:
+  print('Python')
+```
+````
+```python
 Put your Code Here
 ```
 ````
