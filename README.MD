@@ -120,5 +120,16 @@ Put your Code Here
 ```
 ````
 
+##### For Java
+```java
+public void Java{
+console.log("Java")
+}
+```
+````
+```java
+Put your Code Here
+```
+````
 
 
