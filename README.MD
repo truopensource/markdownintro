@@ -24,9 +24,11 @@ Examples:
 ### How to make Table in Markdown
 
 Examples:
+
 First Header | Second Header
 ------------ | -------------
 Content cell 1 | Content cell 2
+
 ```
 First Header | Second Header
 ------------ | -------------
@@ -53,6 +55,7 @@ Examples:
 ### Bold 
 
 Examples:
+
 **Markdown**
 ```
 **Markdown**
@@ -62,6 +65,7 @@ Examples:
 ### Italic
 
 Examples:
+
 *Markdown* 
 ```
 *Markdown* 
@@ -71,13 +75,16 @@ Examples:
 ### Superscript
 
 Examples:
+
 Welcome to Markdown<sup>2</sup>
 ```
 Welcome to Markdown<sup>2</sup>
 ```
 
 ### Subscript
+
 Examples:
+
 Welcome to Markdown<sub>2</sub>
 ```
 Welcome to Markdown<sub>2</sub>
