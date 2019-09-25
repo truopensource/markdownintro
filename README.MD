@@ -51,7 +51,7 @@ Examples:
 
 [Click to follow the link](https://trusu.ca/club/open-source-club/)
 ```
-[TRU OpenSource Club](https://trusu.ca/club/open-source-club/)
+[Click to follow the link](https://trusu.ca/club/open-source-club/)
 ```
 
 ### Bold 
