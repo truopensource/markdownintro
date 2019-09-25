@@ -5,12 +5,18 @@ It is a lightweight markup language developed by John Gruber with the help of Aa
 ### How to make Header in Markdown
 
 Examples: 
-# This represent <h1> tag
-## This represents <h2> tag
-###### This represents <h6> tag
+# Markdown
+## Markdown
+### Markdown
+#### Markdown
+##### Markdown
+###### Markdown
 ```
 # This represent <h1> tag
 ## This represents <h2> tag
+### This represents <h3> tag
+#### This represents <h4> tag
+##### This represents <h5> tag
 ###### This represents <h6> tag
 ```
 
