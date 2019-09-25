@@ -82,6 +82,7 @@ Welcome to Markdown<sup>2</sup>
 Welcome to Markdown<sup>2</sup>
 ```
 
+
 ### Subscript
 
 Examples:
@@ -89,6 +90,20 @@ Examples:
 Welcome to Markdown<sub>2</sub>
 ```
 Welcome to Markdown<sub>2</sub>
+```
+
+
+### Code Blocks
+
+#### Normal
+Examples:
+```
+Hello there! Welcome to the Markdown Introduction
+```
+```
+```
+Hello there! Welcome to the Markdown Introduction
+```
 ```
 
 
