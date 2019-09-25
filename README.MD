@@ -44,9 +44,10 @@ Examples:
 ### Links in Markdown
 
 Examples:
+
 [TRU OpenSource Club](https://trusu.ca/club/open-source-club/)
 ```
-[Text](url)
+[TRU OpenSource Club](https://trusu.ca/club/open-source-club/)
 ```
 
 ### Bold 
