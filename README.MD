@@ -109,16 +109,14 @@ Hello there! Welcome to the Markdown Introduction
 #### Language Specific
 Examples:
 ##### For Javascript
-```javasccript
+```javascript
 test= async ()=>{
 console.log("Javascript")
 }
 ```
 ````
-```javasccript
-test= async ()=>{
-console.log("Javascript")
-}
+```javascript
+Put your Code Here
 ```
 ````
 
