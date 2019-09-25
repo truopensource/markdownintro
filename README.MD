@@ -5,12 +5,12 @@ It is a lightweight markup language developed by John Gruber with the help of Aa
 ### How to make Header in Markdown
 
 Examples: 
+# This represent <h1> tag
+## This represents <h2> tag
+###### This represents <h6> tag
 ```
 # This represent <h1> tag
 ## This represents <h2> tag
-...
-....
-.....
 ###### This represents <h6> tag
 ```
 
@@ -18,6 +18,9 @@ Examples:
 ### How to make Table in Markdown
 
 Examples:
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
 ```
 First Header | Second Header
 ------------ | -------------
@@ -27,6 +30,7 @@ Content cell 1 | Content cell 2
 ### Images in Markdown
 
 Examples:
+![TRU OpenSource Club](url to the image)
 ```
 ![Alternative Text](url to the image)
 ```
@@ -34,6 +38,7 @@ Examples:
 ### Links in Markdown
 
 Examples:
+[TRU OpenSource Club](https://trusu.ca/club/open-source-club/)
 ```
 [Text](url)
 ```
@@ -41,6 +46,7 @@ Examples:
 ### Bold 
 
 Examples:
+**Markdown**
 ```
 **Markdown**
 ```
@@ -49,6 +55,7 @@ Examples:
 ### Italic
 
 Examples:
+*Markdown* 
 ```
 *Markdown* 
 ```
@@ -57,12 +64,14 @@ Examples:
 ### Superscript
 
 Examples:
+Welcome to Markdown<sup>2</sup>
 ```
 Welcome to Markdown<sup>2</sup>
 ```
 
 ### Subscript
 Examples:
+Welcome to Markdown<sub>2</sub>
 ```
 Welcome to Markdown<sub>2</sub>
 ```
