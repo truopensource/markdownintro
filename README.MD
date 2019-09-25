@@ -5,12 +5,12 @@ It is a lightweight markup language developed by John Gruber with the help of Aa
 ### How to make Header in Markdown
 
 Examples: 
-# Markdown
-## Markdown
-### Markdown
-#### Markdown
-##### Markdown
-###### Markdown
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
 ```
 # This represent <h1> tag
 ## This represents <h2> tag
@@ -38,16 +38,17 @@ Content cell 1 | Content cell 2
 ### Images in Markdown
 
 Examples:
-![TRU OpenSource Club](url to the image)
+
+![TRU Open Source Club](https://i2.wp.com/trusu.ca/wp-content/uploads/2016/07/OpenSource-Club-Logo.png?resize=300%2C264&ssl=1)
 ```
-![Alternative Text](url to the image)
+![TRU Open Source Club](https://i2.wp.com/trusu.ca/wp-content/uploads/2016/07/OpenSource-Club-Logo.png?resize=300%2C264&ssl=1)
 ```
 
 ### Links in Markdown
 
 Examples:
 
-[TRU OpenSource Club](https://trusu.ca/club/open-source-club/)
+[Click to follow the link](https://trusu.ca/club/open-source-club/)
 ```
 [TRU OpenSource Club](https://trusu.ca/club/open-source-club/)
 ```
