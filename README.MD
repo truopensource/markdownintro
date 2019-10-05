@@ -4,14 +4,14 @@ It is a lightweight markup language developed by John Gruber with the help of Aa
 
 ## Index
 - [How to make Header in Markdown](#how-to-make-header-in-markdown)
-- [How to make Table in Markdown] (#how-to-make-table-in-markdown)
-- [Images in Markdown] (#images-in-markdown)
-- [Links in Markdown] (#links-in-markdown)
-- [Bold] (#bold)
-- [Italic] (#italic)
-- [Superscript] (#superscript)
-- [Subscript] (#subscript)
-- [Code Blocks] (#code-blocks)
+- [How to make Table in Markdown](#how-to-make-table-in-markdown)
+- [Images in Markdown](#images-in-markdown)
+- [Links in Markdown](#links-in-markdown)
+- [Bold](#bold)
+- [Italic](#italic)
+- [Superscript](#superscript)
+- [Subscript](#subscript)
+- [Code Blocks](#code-blocks)
 
 ### How to make Header in Markdown
 
