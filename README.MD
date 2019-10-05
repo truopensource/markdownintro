@@ -21,6 +21,15 @@ Examples:
 ###### This represents <h6> tag
 ```
 
+### How to make a Header Row in Markdown
+
+Example:
+
+---
+
+```
+--- (3 hyphens will create a Header Row)
+```
 
 ### How to make Table in Markdown
 
