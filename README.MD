@@ -2,6 +2,16 @@
 
 It is a lightweight markup language developed by John Gruber with the help of Aaron Swartz. The main purpose of the language is to offer an easy syntax to read and write or a way to style text on the web.
 
+## Index
+- [How to make Header in Markdown](#how-to-make-header-in-markdown)
+- [How to make Table in Markdown](#how-to-make-table-in-markdown)
+- [Images in Markdown](#images-in-markdown)
+- [Links in Markdown](#links-in-markdown)
+- [Bold](#bold)
+- [Italic](#italic)
+- [Superscript](#superscript)
+- [Subscript](#subscript)
+- [Code Blocks](#code-blocks)
 
 ### How to make Header in Markdown
 
@@ -148,3 +158,5 @@ Put your Code Here
 
 [Click to learn more](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
+Contributors: 
+Stephen @swong87
